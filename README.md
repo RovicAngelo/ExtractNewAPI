@@ -1,2 +1,2 @@
 # ExtractNewAPI
-An API that Extract news from the web through link and summarize its content
+An API that pull stuctured data of online articles and blog pages and extract relevant information such as title, published time and text.
